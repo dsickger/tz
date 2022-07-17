@@ -1,0 +1,15 @@
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\bin\Debug\net6.0\test1_fibon.exe
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\bin\Debug\net6.0\test1_fibon.deps.json
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\bin\Debug\net6.0\test1_fibon.runtimeconfig.json
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\bin\Debug\net6.0\test1_fibon.dll
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\bin\Debug\net6.0\test1_fibon.pdb
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.csproj.AssemblyReference.cache
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.AssemblyInfoInputs.cache
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.AssemblyInfo.cs
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.csproj.CoreCompileInputs.cache
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.dll
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\refint\test1_fibon.dll
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.pdb
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\test1_fibon.genruntimeconfig.cache
+C:\Users\dsickger\source\repos\test1_fibon\test1_fibon\obj\Debug\net6.0\ref\test1_fibon.dll
